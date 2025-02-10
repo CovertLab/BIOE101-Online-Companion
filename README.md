@@ -34,8 +34,6 @@ field that has arisen to address this need, at the intersection of computational
 ### Access Notebooks
 #### Option 1: Via Google Colab
 **Step 1:** Upload .ipynb files to a Google Drive
-<img alt="Colab Step 2" src="doc/colab_step2.png">
-
 **Step 2:** Open in Google Colab
 Double-clicking on the file will direct you to Google Colab. All the figures are already rendered but feel free to run the code segments at your convenience. Enjoy!
 <img alt="Colab Step 2" src="doc/colab_step3.png">
