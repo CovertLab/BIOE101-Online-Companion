@@ -25,7 +25,7 @@ field that has arisen to address this need, at the intersection of computational
 ### Download
 #### Option 1: Download individual .ipynb files
 > **Note:** This is the most friendly approach for users from non-coding backgrounds. The online textbook is organized by chapters under [Notebook_by_Chapters](https://github.com/CovertLab/BIOE101-Online-Companion/tree/main/Notebook_by_Chapters) folder.
-<img alt="Colab Step 1" src="doc/colab_step1.png">
+<img alt="Colab Step 1" src="doc/colab_step1.png" height="250">
 
 #### Option 2: Clone GitHub Repository
 
@@ -34,9 +34,11 @@ field that has arisen to address this need, at the intersection of computational
 ### Access Notebooks
 #### Option 1: Via Google Colab
 **Step 1:** Upload .ipynb files to a Google Drive
+
 **Step 2:** Open in Google Colab
 Double-clicking on the file will direct you to Google Colab. All the figures are already rendered but feel free to run the code segments at your convenience. Enjoy!
-<img alt="Colab Step 2" src="doc/colab_step3.png">
+
+<img alt="Colab Step 2" src="doc/colab_step3.png" height="250">
 
 #### Option 2: Via PyCharm
 > **Note** The notebooks only render well in PyCharm and are not compatible with Visual Studio Code or Jupyter Notebook.
